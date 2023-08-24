@@ -3,6 +3,8 @@ Basic typescript topics
 
 ## Topics
 - Variable Scopes
+- Annotation
+- Anonymous Functions
 - Arrow Functions
 - Data Types
 - Access Modifiers
